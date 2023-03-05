@@ -1,9 +1,3 @@
-# 0. 引言
-
-学习和开发过程中的经验, 我将其记录在这里, 作为备忘录. 
-
-The experience of learning and developing products are recorded here.
-
 # 1. 数据流监听, 捕获, 修改
 ## 工具链
 | Tool | Link | Description |
