@@ -27,6 +27,7 @@
 | Tool | Link | Description |
 | ---- | ---- | ---- |
 | __Xmake__ | [@GitHub](https://github.com/xmake-io/xmake) | 简单高效的C/C++构建工具, 我已经变成xmake的形状了 |
+| pest | [@Web](https://pest.rs/) | 基于 R**t 的 Parser, 简单, 准确, 高效, 优雅 |
 
 # 4. 网络协议 (Network Protocol)
 | Protocol | Link | Description |
